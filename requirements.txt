@@ -1,0 +1,9 @@
+feedparser==6.0.11
+playwright==1.47.0
+beautifulsoup4==4.12.3
+newspaper3k==0.2.8
+readability-lxml==0.8.1
+requests==2.32.3
+python-dotenv==1.0.1
+tqdm==4.66.4
+lxml==5.2.2
